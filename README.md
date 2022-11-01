@@ -1,21 +1,24 @@
-- 👋 Hi, I’m  A Unity developer with 6 month experience but not a commercial experience. 
- I have experience in job with:
- 
-Unity: 
-- Animation
-- Particle System
-- Joints
-- Materials
-- ProBuilder
+- 👋 Hello. I'm a Unity Developer. 
+I have about a year and a half of commercial experience, worked on the different Unity cross-
+platform games/applications, MR/AR/VR projects.
 
 Skills:
-- Basic Knowledge of C #;
-- Basic Knowledge of OOP;
+- good knowledge of C #;
+- good knowledge of OOP;
+- good knowledge of Unity SDK,
 - Upper-Intermediate English;
-- Basic Unity Experience;
+- Version Control Systems: Git
 
-- 👀 The most interesting thing for me is AR/VR but I haven't got any experience with it and want to get it. I'm ready to work hard)
-- 🌱 I went through the "C # Programming and Unity" course on Coursera. At the moment I'm taking the big course "Unity Game Developer" on SKILBOX.
+Frameworks: 
+ - Unity SDK
+ - Oculus SDK
+- MRTK SDK
+- AR Foundation
+
+Practices, technologies:
+ - Firebase API
+ - MongoDB API
+ - Microsoft Graph API
 - 💞️ I'm looking for interesting projects and an opportunity to improve my knowledge and skills. 
 - 📫 Telegram: @stilojd
 
